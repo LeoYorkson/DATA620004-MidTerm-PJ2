@@ -22,7 +22,7 @@
 
 ## 🧠 模型简述
 
-- **任务一模型**：使用 ImageNet 预训练的 ResNet-18 和 AlexNet，替换输出层以适应 Caltech-101 分类任务；
+- **任务一模型**：使用 ImageNet 预训练的以及从头开始训练的 ResNet-18，替换输出层以适应 Caltech-101 分类任务；
 - **任务二模型**：采用经典的 Mask R-CNN（两阶段、基于 proposal）与 Sparse R-CNN（基于 query 的端到端检测）进行目标检测与实例分割。
 
 ---
