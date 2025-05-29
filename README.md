@@ -75,6 +75,6 @@
 
 ## 🔗 附件链接
 
-- 📄 实验报告（PDF）：(DATA620004-MidTerm-PJ2 深度学习实验报告：图像分类与实例分割.pdf)
+- 📄 实验报告（PDF）：[点击查看实验报告（PDF）](https://drive.google.com/file/d/1saMP2D8v_vLNJZ6otI8lHra6h8IHpUqM/view?usp=sharing)
 - 📦 模型权重下载地址（ Google Drive）：[https://drive.google.com/drive/folders/1nfiKODUAGKucymPrm--stA-me-QFljkR?usp=sharing]
 
