@@ -1,0 +1,1 @@
+python SparseRCNN/scripts/eval_all_checkpoints.py
