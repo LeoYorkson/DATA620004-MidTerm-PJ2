@@ -31,13 +31,20 @@
 
 - ✅ **任务一**：完成了模型的训练与微调，使用 TensorBoard 记录了训练集与验证集上的 loss 曲线及准确率变化。对比实验验证了预训练模型的显著优势；
 
-  <a href="https://postimg.cc/Yvcqr2sx" target="_blank">
-    <img src="https://i.postimg.cc/7ZhCNf1j/1-image.png" alt="Caltech图像" width="500"/>
-  </a>
-  
- <a href="https://postimg.cc/qt3Fk0W2" target="_blank">
-    <img src="https://i.postimg.cc/tgSGN45v/Screenshot-2025-05-29-223853.png" alt="任务一结果" width="500"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://postimg.cc/Yvcqr2sx" target="_blank">
+          <img src="https://i.postimg.cc/7ZhCNf1j/1-image.png" alt="Caltech图像" width="450"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://postimg.cc/qt3Fk0W2" target="_blank">
+          <img src="https://i.postimg.cc/tgSGN45v/Screenshot-2025-05-29-223853.png" alt="任务一结果" width="450"/>
+        </a>
+      </td>
+    </tr>
+  </table>
   
 - ✅ **任务二**：基于现有框架成功完成了 VOC 上的 Mask R-CNN 与 Sparse R-CNN 训练，并对比展示了 proposal 与最终预测的差异、两个模型的检测与分割效果，以及在 VOC 外部图像上的表现。
 
