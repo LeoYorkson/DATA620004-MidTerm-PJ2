@@ -30,6 +30,7 @@
 ## 📊 实验结果摘要
 
 - ✅ **任务一**：完成了模型的训练与微调，使用 TensorBoard 记录了训练集与验证集上的 loss 曲线及准确率变化。对比实验验证了预训练模型的显著优势；
+  [![1-image.png](https://i.postimg.cc/7ZhCNf1j/1-image.png)](https://postimg.cc/Yvcqr2sx)
 - ✅ **任务二**：基于现有框架成功完成了 VOC 上的 Mask R-CNN 与 Sparse R-CNN 训练，并对比展示了 proposal 与最终预测的差异、两个模型的检测与分割效果，以及在 VOC 外部图像上的表现。
 [![loss-train.png](https://i.postimg.cc/J03XSvtg/loss-train.png)](https://postimg.cc/ctH6nDRM)
 ---
