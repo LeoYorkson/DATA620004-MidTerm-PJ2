@@ -48,13 +48,20 @@
   
 - ✅ **任务二**：基于现有框架成功完成了 VOC 上的 Mask R-CNN 与 Sparse R-CNN 训练，并对比展示了 proposal 与最终预测的差异、两个模型的检测与分割效果，以及在 VOC 外部图像上的表现。
 
-  <a href="https://postimg.cc/ctH6nDRM" target="_blank">
-    <img src="https://i.postimg.cc/J03XSvtg/loss-train.png" alt="训练 loss 曲线" width="500"/>
-  </a>
-
-  <a href="https://postimg.cc/zby9HKLH" target="_blank">
-    <img src="https://i.postimg.cc/DZ6FDcn6/cat-person.jpg" alt="VOC 外部检测图" width="500"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://postimg.cc/ctH6nDRM" target="_blank">
+          <img src="https://i.postimg.cc/J03XSvtg/loss-train.png" alt="训练 loss 曲线" width="450"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://postimg.cc/zby9HKLH" target="_blank">
+          <img src="https://i.postimg.cc/DZ6FDcn6/cat-person.jpg" alt="VOC 外部检测图" width="450"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 
 ## 🛠️ 使用说明
