@@ -37,6 +37,7 @@
  <a href="https://postimg.cc/qt3Fk0W2" target="_blank">
     <img src="https://i.postimg.cc/tgSGN45v/Screenshot-2025-05-29-223853.png" alt="任务一结果" width="500"/>
   </a>
+  
 - ✅ **任务二**：基于现有框架成功完成了 VOC 上的 Mask R-CNN 与 Sparse R-CNN 训练，并对比展示了 proposal 与最终预测的差异、两个模型的检测与分割效果，以及在 VOC 外部图像上的表现。
 
   <a href="https://postimg.cc/ctH6nDRM" target="_blank">
